@@ -41,7 +41,7 @@ User Enter Moratuwa In City Input Section The App Display The Current Weather In
 User Enter Badulla In City Input Section The App Display The Current Weather Informations Of Badulla
 ![Screenshot 2024-12-18 223157](https://github.com/user-attachments/assets/5da22bd0-e8c2-4974-8fce-f3abdf01863c)
 
-      Video Demonstration Of The Weather Web Application
+      Video Demonstration Of The Weather Mobile Application Version 01
 
 Video Demonstration Link : https://youtu.be/S5734WhXJxs
 
