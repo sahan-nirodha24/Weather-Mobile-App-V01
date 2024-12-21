@@ -29,7 +29,7 @@ This Weather Moile Application Default City Is Colombo
 ![Screenshot 2024-12-21 162627](https://github.com/user-attachments/assets/7c4b92ba-1c56-43c0-8623-c31b84df5fe1)
 
 Drop Down Menu Of The Weather Mobile Application
-![Screenshot 2024-12-18 222912](https://github.com/user-attachments/assets/0059e439-3222-473e-afdd-dc2095af5056)
+![Screenshot 2024-12-21 163126](https://github.com/user-attachments/assets/abc1e581-f865-4b21-ab0c-f1cc25851df3)
 
 User Select New York The Weather Mobile Application Display The Current Weather Informations Of New York
 ![Screenshot 2024-12-18 222934](https://github.com/user-attachments/assets/10a1039a-e334-458a-a950-c81d71303853)
